@@ -14,7 +14,7 @@ void main() {
   print(age == null);
 
   // Assertion operator (!): Makes the compiler think the value is non-null
-  String? answer;
-  String result = answer!;
+  // String? answer;
+  // String result = answer!;
 
 }
