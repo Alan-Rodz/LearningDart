@@ -1,0 +1,9 @@
+Create new simple console-based dart project:
+dart create -t console-simple appname
+
+Compile and run the app:
+dart run
+
+ Compiling:
+ dart compile exe bin/dart.dart
+ dart compile js bin/dart.dart
