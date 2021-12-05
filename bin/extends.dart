@@ -1,4 +1,7 @@
-void main() {}
+void main() {
+  Pug dog1 = Pug();
+  print(dog1);
+}
 
 abstract class Dog {
   void walk() {
